@@ -30,6 +30,8 @@ docker run -p 127.0.0.1:3000:3000/tcp --platform linux/amd64 --name tutorial3 -d
 cd /home/it5007/
 ```
 * Once you are done with the changes to the code base, add node_modules to .gitignore, but ensure package.json reflects all packages you installed additionally.
+* Make sure you commit your changes to the repository using the command:
+  - $```git commit -am "answer to T3"```
 
 ## IT5007 Tutorial Submission
 * Push the code to your PRIVATE github repository.
