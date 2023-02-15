@@ -4,6 +4,7 @@
 ```
 cd /home/it5007/
 ```
+* $```git clone <your github classroom repository url>```
 * Once you are done with the changes to the code base, add node_modules to .gitignore, but ensure package.json reflects all packages you installed additionally.
 * Make sure you commit your changes to the repository using the command:
   - $```git commit -am "answer to T3"```
